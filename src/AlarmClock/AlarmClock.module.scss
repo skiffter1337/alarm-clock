@@ -1,0 +1,25 @@
+.alarm_clock_block {
+  min-height: 100vh;
+  border: 2px solid lime;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.alarm_clock_container {
+  border: 2px solid lime;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+gap: 300px;
+width: 80%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.add_alarm_button {
+
+
+}

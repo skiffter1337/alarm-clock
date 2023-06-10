@@ -1,0 +1,20 @@
+.alarm_settings_container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  border: 2px solid red;
+}
+
+.settings_control_panel {
+  display: flex;
+  gap: 20px;
+}
+
+.melody_select {
+  width: 100%;
+  display: flex;
+  gap: 10px;
+}
